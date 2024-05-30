@@ -1,5 +1,5 @@
 # Gumball_Counting
-One day, my wife and I were out to breakfast and we saw a gumball machine at the restaurant. I started wondering how one might estimate the number of gumballs in the machine. This particular project was interesting because I really dug into sphere packing, an area with which I was fairly unfamiliar.
+One day, my ex-wife and I were out to breakfast (when we were still married, mind you) and we saw a gumball machine at the restaurant. I started wondering how one might estimate the number of gumballs in the machine. This particular project was interesting because I really dug into sphere packing, an area with which I was fairly unfamiliar.
 
 
 Assumptions:
